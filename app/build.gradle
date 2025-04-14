@@ -8,8 +8,8 @@ android {
         applicationId "cdphsk.ezs"
         minSdkVersion 23
         targetSdk 34
-        versionCode 1
-        versionName "1.0"
+        versionCode 2
+        versionName "1.1"
         testInstrumentationRunner 'androidx.test.runner.AndroidJUnitRunner'
     }
     buildTypes {
@@ -27,8 +27,8 @@ android {
     productFlavors {
         prod {
             applicationId "cdphsk.ezs"
-            versionCode 1
-            versionName "1.0"
+            versionCode 2
+            versionName "1.1"
         }
     }
 
